@@ -1,4 +1,4 @@
-# Car Showcase Application
+# Car Showcase Application 🚗🌟
 Welcome to the Car Showcase Application! This project is developed using Next.js 13, React, TypeScript, and Tailwind CSS to provide an engaging platform for showcasing various car models.
 
 ## Technologies Used
@@ -18,13 +18,13 @@ Welcome to the Car Showcase Application! This project is developed using Next.js
 ## Getting Started
 To run the application locally, follow these steps:
 
-Clone the repository.
+1. Clone the repository.
 
-Install dependencies using `npm install`.
+2. Install dependencies using `npm install`.
 
-Run the application with `npm run dev`.
+3. Run the application with `npm run dev`.
 
-Access the application in your browser at `http://localhost:3000`.
+4. Access the application in your browser at `http://localhost:3000`.
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
